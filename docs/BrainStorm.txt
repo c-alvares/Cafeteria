@@ -1,0 +1,53 @@
+1)
+Chatbot não precisa
+Tela de login (login único com "esqueceu senha")
+
+2)
+Cadastro de pessoas por modal (nome completo, telefone, endereço(logradouro, número, bairro))
+Tela com a relação dos clientes cadastrados e histórico de compras
+Barra de pesquisa por nome e telefone
+Botão de editar cadastro.
+Botão de filtrar (primariamente pelas compras)
+
+3)
+Tela contendo todas as mesas(10 mesas)
+Mesas importam o nome do cliente (após ocupadas)
+Mudam de cor caso ocupadas
+
+4)
+Adicionar o cliente(por nome)
+Barra de pesquisa do item
+Menu - Divisão por categorias de itens
+Categorias - (cookies simples,cookies recheados, bolos, bebidas, cafés, café gelados, doces especiais)
+Itens - nome, preço, botão adicionar sendo o próprio item(com clique ele adiciona ao carrinho/mesa)
+Itens ordenados por código
+Subtotal
+Botão para fechar a mesa
+Modal de pagamento (forma de pagamento, checkbox com itens adquiridos para separar a conta, opção de divisão do valor final, impressão da nota fiscal)
+Mostrar quando confirmar os pagamentos, mensagem de mesa liberada, e retornar para tela de mesas
+Botão de retornar a tela de mesas
+
+5)
+Estoque - 
+
+
+6)
+PDV - 
+
+
+7)
+Livro Caixa
+
+
+8)
+Contas à pagar/receber
+
+
+9)
+Integração com Ifood
+
+
+Imprimir(preferencialmente em modelo de nota fiscal)
+
+
+
